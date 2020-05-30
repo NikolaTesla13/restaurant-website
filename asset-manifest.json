@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restaurant-website/static/css/main.61602328.chunk.css",
+    "main.js": "/restaurant-website/static/js/main.d4d5029d.chunk.js",
+    "main.js.map": "/restaurant-website/static/js/main.d4d5029d.chunk.js.map",
+    "runtime-main.js": "/restaurant-website/static/js/runtime-main.98f704bc.js",
+    "runtime-main.js.map": "/restaurant-website/static/js/runtime-main.98f704bc.js.map",
+    "static/js/2.e7b55b8d.chunk.js": "/restaurant-website/static/js/2.e7b55b8d.chunk.js",
+    "static/js/2.e7b55b8d.chunk.js.map": "/restaurant-website/static/js/2.e7b55b8d.chunk.js.map",
+    "index.html": "/restaurant-website/index.html",
+    "precache-manifest.22850a0ddca794578e889913e940dd9e.js": "/restaurant-website/precache-manifest.22850a0ddca794578e889913e940dd9e.js",
+    "service-worker.js": "/restaurant-website/service-worker.js",
+    "static/css/main.61602328.chunk.css.map": "/restaurant-website/static/css/main.61602328.chunk.css.map",
+    "static/js/2.e7b55b8d.chunk.js.LICENSE.txt": "/restaurant-website/static/js/2.e7b55b8d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/restaurant-website/static/media/pizza.b5dbe610.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f704bc.js",
+    "static/js/2.e7b55b8d.chunk.js",
+    "static/css/main.61602328.chunk.css",
+    "static/js/main.d4d5029d.chunk.js"
+  ]
+}
